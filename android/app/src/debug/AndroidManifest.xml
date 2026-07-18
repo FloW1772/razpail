@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Ce manifeste ne s'applique qu'aux builds "debug" (flutter run) et permet
+    au tooling Flutter de communiquer avec le VM service en local via loopback.
+    Il n'est jamais inclus dans l'APK de release construit avec
+    `flutter build apk --release`, qui reste sans permission INTERNET.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>

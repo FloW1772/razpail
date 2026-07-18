@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cadeau stylisé représentant un rappel d'anniversaire. -->
+    <path
+        android:pathData="M34,58h40v30h-40z"
+        android:fillColor="#FFF6F1"/>
+    <path
+        android:pathData="M34,46h40v14h-40z"
+        android:fillColor="#FF8C69"/>
+    <path
+        android:pathData="M50,46h8v42h-8z"
+        android:fillColor="#F7A48B"/>
+    <path
+        android:pathData="M44,46 C40,46 37,43 37,39 C37,35 40,33 43,34 C47,35 50,40 50,46 C50,46 47,46 44,46Z"
+        android:fillColor="#FF8C69"/>
+    <path
+        android:pathData="M64,46 C68,46 71,43 71,39 C71,35 68,33 65,34 C61,35 58,40 58,46 C58,46 61,46 64,46Z"
+        android:fillColor="#FF8C69"/>
+</vector>
